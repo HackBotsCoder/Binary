@@ -69,9 +69,9 @@ index_pairs = [
 
 all_pairs = otc_pairs + real_pairs + index_pairs
 
-timeframes = ["1 minutos"] * 5 + ["2 minutos"] * 3 + ["3 minutos"] * 2 + ["5 minutos"]
-budget_options = ["20$", "30$", "40$"]
-directions = ["📈 Arriba", "📉 Abajo"]
+timeframes = ["10 minutos"] * 5 + ["20 minutos"] * 3 + ["30 minutos"] * 2 + ["50 minutos"]
+budget_options = ["10$", "20$", "30$"]
+directions = ["📈 Вверх", "📉 Вниз"]
 
 user_cooldowns = {}
 
